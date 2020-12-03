@@ -1,0 +1,78 @@
+html{
+    margin: 0px;
+    padding:0px
+}
+
+header{
+    height : 500px;
+    background-image: url(image/cover.jpg) ;
+    background-size: cover;
+    text-transform: uppercase;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 25px;
+    color: #707070;
+
+}
+section{
+    height: 200px;
+}
+
+.services{
+    text-align: center;
+    font-size: 16px;
+
+}
+]
+footer{
+    height: 150px;
+    background-color: #0e0e0e;
+    color: #707070;
+}
+
+.vo{
+    height: 200px;
+    margin:10px;
+}
+
+.voy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.team{
+    text-align: center;
+    height
+    
+}
+
+.tea{
+    height: 200px;
+}
+
+.propos{
+    margin: 25px;
+    margin-top: -25px;
+    text-align: justify;
+    line-height: 25px;
+    font-size: 16px;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li{
+    list-style: none;
+}
